@@ -12,10 +12,9 @@ function App() {
     try {
       setError("");
 
-      const res = await axios.get(
-        "http://127.0.0.1:8000/extract",
-        { params: { url } }
-      );
+      const res = await axios.get("/extract", {
+        params: { url }
+      });
 
       setRecipe(res.data);
     } catch (err) {
