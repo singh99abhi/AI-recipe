@@ -4,6 +4,7 @@ from scrapper import scrape_recipe
 from llm_services import extract_recipe
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 
 # Initialize database tables
@@ -82,3 +83,5 @@ def get_recipes():
 def get_recipe(recipe_id: int):
     db = SessionLocal()
     return db.query(Recipe).filter(Recipe.id == recipe_id).first()
+
+app.mount("/", StaticFiles(directory="frontend/dist", html=True), name="frontend")
