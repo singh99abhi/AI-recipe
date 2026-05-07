@@ -65,7 +65,7 @@ AI-recipe/
 ### Clone repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/singh99abhi/AI-recipe.git
 cd AI-recipe
 ```
 
