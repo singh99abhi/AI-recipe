@@ -23,7 +23,7 @@ function App() {
   };
   // Fetch saved recipe history
   const fetchRecipes = async () => {
-    const res = await axios.get("http://127.0.0.1:8000/recipes");
+    const res = await axios.get("/recipes");
     setRecipes(res.data);
 
   };
