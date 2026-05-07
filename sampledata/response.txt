@@ -1,0 +1,71 @@
+{
+  "title": "Next level BBQ chicken",
+  "cuisine": "Barbecue",
+  "prep_time": "30 mins",
+  "cook_time": "1 hr",
+  "total_time": "2 hours 30 minutes (including 1 hour marinating)",
+  "servings": 4,
+  "difficulty": "Easy",
+  "ingredients": [
+    "2 red chillies tops removed and reserved for the smoke mix (see below)",
+    "8 spring onions roughly chopped",
+    "thumb-sized piece of ginger peeled and roughly chopped",
+    "8 garlic cloves roughly chopped",
+    "2 tbsp chopped thyme",
+    "1 bay leaf",
+    "1 tsp ground cumin",
+    "½ tsp paprika",
+    "3 tbsp dark brown soft sugar",
+    "4 tbsp soy sauce",
+    "4 limes 2 juiced, plus 2 halved to serve",
+    "1.5kg mix of chicken drumsticks and wings, lightly scored",
+    "200ml ketchup",
+    "For the smoke mix (optional): handful of thyme sprigs",
+    "For the smoke mix (optional): handful of bay leaves",
+    "For the smoke mix (optional): 1 tsp ground allspice",
+    "For the smoke mix (optional): reserved chilli tops (see above)"
+  ],
+  "instructions": [
+    "To prepare the meat, tip all the ingredients, except for the chicken and ketchup, into a blender or mini processor. Add a pinch of salt and blitz to a rough paste. Tip two-thirds of the paste into a large bowl with the chicken, and massage the marinade into the meat. Cover and leave for at least 1 hr at room temperature, or up to 48 hrs in the fridge.",
+    "Meanwhile, make the barbecue sauce. Tip the remaining paste into a small saucepan and bring to a simmer. Cook for 5 mins until it thickens and becomes darker, then add the ketchup and cook for 5 mins until sticky. Tip into a container and set aside.",
+    "Light the barbecue, ensuring the coals are piled up at one end and leaving only a couple of coals on the other side. Lay the chicken on the emptier side. If you’re making the smoke mix, carefully scatter all of the ingredients directly onto the piled-up coals. Cover the barbecue (with the vents open) and cook the chicken for 20 mins. Remove the lid and turn the chicken, then cover again and cook for a further 20 mins.",
+    "Remove the lid and move the chicken across the grill so it’s above the piled-up coals, then baste with some of the barbecue sauce, keeping enough aside, in a separate container, to serve later. Cook for 10 mins, adding a few more coals if you need to and turning often, until nicely charred and cooked through – a digital thermometer inserted through the thickest part of the meat should read at least 65C.",
+    "Put the lime halves on the grill, over the coals, cut-side down for 3-4 mins until charred. Serve the chicken with the lime for squeezing over and reserved barbecue sauce for dipping."
+  ],
+  "nutrition_estimate": {
+    "per_serving": {
+      "kcal": 528,
+      "fat": "22 g",
+      "saturates": "6 g",
+      "carbs": "33 g",
+      "sugars": "31 g",
+      "fibre": "2 g",
+      "protein": "48 g",
+      "salt": "3.4 g"
+    }
+  },
+  "substitutions": [],
+  "shopping_list": [
+    "red chillies",
+    "spring onions",
+    "ginger",
+    "garlic cloves",
+    "thyme",
+    "bay leaf",
+    "ground cumin",
+    "paprika",
+    "dark brown soft sugar",
+    "soy sauce",
+    "limes",
+    "chicken drumsticks and wings",
+    "ketchup",
+    "ground allspice"
+  ],
+  "related_recipes": [
+    "Next level chilli con carne",
+    "Next level mac 'n' cheese",
+    "Next level apple crumble",
+    "Air fryer gyros",
+    "Air fryer nachos"
+  ]
+}
